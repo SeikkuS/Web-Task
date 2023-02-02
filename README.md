@@ -56,9 +56,16 @@ Tämän jälkeen testasin toimiiko kyseinen sivu, ja tein hakemiston public_html
 
 ![kuva](https://user-images.githubusercontent.com/105205141/216318813-06b4da86-8994-46cb-8430-2c52a292f754.png)
 
+## d)
+
 Tässä HTML-tiedoston sisältö:
 
 ![kuva](https://user-images.githubusercontent.com/105205141/216318337-89731823-c18e-41d2-b8c2-2e64f6d57a11.png)
+
+Tallensin muutokset, poistuin html tiedostosta ja kokeilin sivua selaimella: 
+
+![kuva](https://user-images.githubusercontent.com/105205141/216319018-e1c0e20b-c336-47cb-a26f-0be420de2f36.png)
+
 
 # Lähteet: 
 
